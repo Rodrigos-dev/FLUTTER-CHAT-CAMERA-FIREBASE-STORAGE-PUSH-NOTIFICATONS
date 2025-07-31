@@ -81,8 +81,7 @@ Persistência dos dados no Firestore
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c173ac40-f56c-4978-bbbe-1966fe6067e5" width="50"/></td>
     <td><img src="https://github.com/user-attachments/assets/163f2f4a-438e-4a2e-9e84-61aa3cbfcc00" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2182215d-13ba-4dba-9a53-d49655c9e3f5" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5cd57f4b-dd39-4656-a0b4-4485cf98881d" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2182215d-13ba-4dba-9a53-d49655c9e3f5" width="50"/></td>    
     <td><img src="https://github.com/user-attachments/assets/cfdbe350-0a82-4ee9-9254-b0008705f0a1" width="50"/></td>
   </tr>
 </table>
